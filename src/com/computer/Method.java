@@ -9,7 +9,7 @@ public class Method implements InsertDrawable {
 
     @Override
     public void Keyboard() {
-        System.out.println("键盘功能正常使用！");
+        System.out.println("键盘功能正常使用!!！");
     }
 
     @Override
